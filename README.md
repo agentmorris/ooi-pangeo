@@ -1,2 +1,2 @@
 # ooi-pangeo
-Scripts and notebooks for using Pangeo to launch a Kubernetes cluster on Azure
+This is the main repo for example Pangeo notebooks and the primary issues page. 
